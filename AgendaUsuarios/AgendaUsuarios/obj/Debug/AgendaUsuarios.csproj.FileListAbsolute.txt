@@ -1,0 +1,11 @@
+C:\Users\unisanta\source\repos\AgendaUsuarios\AgendaUsuarios\bin\Debug\AgendaUsuarios.exe.config
+C:\Users\unisanta\source\repos\AgendaUsuarios\AgendaUsuarios\bin\Debug\AgendaUsuarios.exe
+C:\Users\unisanta\source\repos\AgendaUsuarios\AgendaUsuarios\bin\Debug\AgendaUsuarios.pdb
+C:\Users\unisanta\source\repos\AgendaUsuarios\AgendaUsuarios\obj\Debug\AgendaUsuarios.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\AgendaUsuarios\AgendaUsuarios\obj\Debug\AgendaUsuarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\source\repos\AgendaUsuarios\AgendaUsuarios\obj\Debug\AgendaUsuarios.Form1.resources
+C:\Users\unisanta\source\repos\AgendaUsuarios\AgendaUsuarios\obj\Debug\AgendaUsuarios.Properties.Resources.resources
+C:\Users\unisanta\source\repos\AgendaUsuarios\AgendaUsuarios\obj\Debug\AgendaUsuarios.csproj.GenerateResource.cache
+C:\Users\unisanta\source\repos\AgendaUsuarios\AgendaUsuarios\obj\Debug\AgendaUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\AgendaUsuarios\AgendaUsuarios\obj\Debug\AgendaUsuarios.exe
+C:\Users\unisanta\source\repos\AgendaUsuarios\AgendaUsuarios\obj\Debug\AgendaUsuarios.pdb
